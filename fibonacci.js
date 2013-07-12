@@ -25,6 +25,7 @@ var fmt = function(arr) {
 };
 
 var k = 20;
+var yo = 69;
 
 console.log("firstkfib(" + k + ")");
 console.log(fmt(firstkfib(k)));
